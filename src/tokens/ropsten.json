@@ -22,5 +22,13 @@
     "decimals": 18,
     "chainId": 3,
     "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
-  }
+  },
+  {
+    "name": "DefiPoolHubPool1",
+    "address": "0x9df11abbbb9223a47f2bb0ef07d14b54d2f4244f",
+    "symbol": "POOL1",
+    "decimals": 18,
+    "chainId": 3,
+    "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
+  }  
 ]
