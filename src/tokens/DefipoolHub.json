@@ -1,19 +1,25 @@
 {
-    "name": "DefiPoolHub",
-    "logoURI": "https://www.coingecko.com/assets/thumbnail-007177f3eca19695592f0b8b0eabbdae282b54154e1be912285c9034ea6cbaf2.png",
-    "keywords": ["defi"],
-    "timestamp": "2021-01-31T00:01:02.229+00:00",
-    "tokens": [{
-        "chainId": 3,
-        "address": "0x9df11abbbb9223a47f2bb0ef07d14b54d2f4244f",
-        "name": "DefiPoolHubTestPool1",
-        "symbol": "Pool1",
-        "decimals": 18,
-        "logoURI": "https://assets.coingecko.com/coins/images/193/thumb/XlQmXoU.png?1595304945"
-    }],
-    "version": {
-        "major": 104,
-        "minor": 13,
-        "patch": 0
+  "name": "Uniswap Default List",
+  "timestamp": "2021-01-21T23:57:10.982Z",
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
+  "keywords": [
+    "uniswap",
+    "default"
+  ],
+  "tokens": [
+    {
+      "chainId": 3,
+      "address": "0x9df11abbbb9223a47f2bb0ef07d14b54d2f4244f",
+      "name": "DefiPoolHub",
+      "symbol": "POOL1",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12645/thumb/AAVE.png?1601374110"
     }
+  ]
 }
