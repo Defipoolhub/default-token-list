@@ -4,7 +4,7 @@
   "version": {
     "major": 2,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   },
   "tags": {},
   "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
@@ -31,6 +31,22 @@
     },
     {
       "chainId": 97,
+      "address": "0xffaE05469B90bAf74d81bEE061b4ed07B8D3435c",
+      "name": "ALICE Token",
+      "symbol": "ALICE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12645/thumb/AAVE.png?1601374110"
+    },
+    {
+      "chainId": 1,
+      "address": "0x279Ddc42952d4F1AB61da128fCAa45cCda92ae57",
+      "name": "BOB Token",
+      "symbol": "BOB",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12645/thumb/AAVE.png?1601374110"
+    },
+    {
+      "chainId": 1,
       "address": "0xffaE05469B90bAf74d81bEE061b4ed07B8D3435c",
       "name": "ALICE Token",
       "symbol": "ALICE",
