@@ -20,6 +20,22 @@
       "symbol": "POOL1",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/12645/thumb/AAVE.png?1601374110"
+    },
+    {
+      "chainId": 97,
+      "address": "0x279Ddc42952d4F1AB61da128fCAa45cCda92ae57",
+      "name": "bob_erc20_token",
+      "symbol": "bet",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12645/thumb/AAVE.png?1601374110"
+    },
+    {
+      "chainId": 97,
+      "address": "0xffaE05469B90bAf74d81bEE061b4ed07B8D3435c",
+      "name": "alice_erc20_token",
+      "symbol": "aet",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12645/thumb/AAVE.png?1601374110"
     }
   ]
 }
